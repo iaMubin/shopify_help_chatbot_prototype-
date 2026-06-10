@@ -16,3 +16,4 @@ python-dotenv
 torch
 torchvision
 uvicorn
+protobuf==3.20.3
